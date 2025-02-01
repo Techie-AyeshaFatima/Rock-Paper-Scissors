@@ -4,7 +4,7 @@ By AYESHA FATIMA
 
 #### Video Demo:  <[URL HERE](https://youtu.be/wUxhQt97PkM)>
 
-#### Get a glimpse of the game on <[play game](https://github.com/Techie-AyeshaFatima.github.io/Rock-Paper-Scissors)>
+#### Get a glimpse of the game on <[play game]([https://github.com/Techie-AyeshaFatima.github.io/Rock-Paper-Scissors](https://techie-ayeshafatima.github.io/Rock-Paper-Scissors/))>
 
 #### Description:
 This project is a simple and interactive Rock, Paper, Scissors game developed using Flask for the backend and HTML, CSS, and JavaScript for the frontend. The application allows users to play the classic game of Rock, Paper, Scissors in a web browser with a sleek and user-friendly interface.
